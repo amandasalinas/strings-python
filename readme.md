@@ -1,1 +1,1 @@
-Lista de exercícios do curso "Programação para Bioinformática (Python) da UFMG"
+Lista de exercícios de strings do curso "Programação para Bioinformática (Python) da UFMG"
